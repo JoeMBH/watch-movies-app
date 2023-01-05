@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #000000;
+    color: aliceblue;
+}
+
+.bg-carousel1 {
+    min-height: 425px;
+    background-size: cover;
+    background-position: center;
+    background-size: 100% 100%;
+
+    background-image: url(https://earlygame.com/uploads/images/_headerImage/netflix-library-gamer-movies.jpg);
+}
+
+.bg-carousel2 {
+    min-height: 425px;
+    background-size: cover;
+    background-position: top;
+
+    background-size: 100% 130%;
+    background-image: url(https://thumbnails.cbsig.net/_x/w1200/CBS_Production_Entertainment_VMS/2021/05/27/1902183491948/13HRS_SAlone_16_9_1920x1080_NB_988230_1920x1080.jpg
+);
+}
+
+.bg-carousel3 {
+    min-height: 425px;
+    background-size: cover;
+    background-position: center;
+    background-size: 100% 100%;
+    background-image: url(https://www.looper.com/img/gallery/puss-in-boots-the-last-wish-trailer-the-journey-of-a-lifetime/l-intro-1668541930.jpg);
+}
+
+.bot-1 {
+    background-color: #CE930A;
+    border-radius: 1%;
+    height: 40px;
+}
+
+.inp-1 {
+    border-radius: 1%;
+
+    height: 40px;
+}
+
+.vod-list {
+    display: flex;
+    justify-content: space-around;
+    justify-content: center;
+
+}
+button:hover{
+    color:bisque
+}
+
+
+.foundCss{
+    font-size: xx-large;
+}
+
+.imageList{
+    width: 80%;
+    height: 100%;
+ 
+ }
